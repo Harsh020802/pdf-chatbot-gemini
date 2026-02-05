@@ -1,4 +1,6 @@
 # 📄 PDF Chatbot using Gemini
+## 🌐 Live Demo
+👉 https://pdf-chatbot-gemini-t9chehy6yrptas5mhv3ucb.streamlit.app/
 
 A document-aware chatbot that allows users to upload PDFs and ask questions using semantic search and RAG.
 
